@@ -1,0 +1,27 @@
+there are five types of data structers, there are:
+1.linear 
+*list
+*sets
+*tuples
+*queues
+*stacks
+*heaps
+
+2.non-linear 
+*there
+*tables
+*container
+
+3.homogenous
+* 2d array
+*multiDarrays
+
+4.hetrogeneous
+* linked lists
+* odered lists
+* unodered lists
+
+5. Dynamic
+* dictionaries
+* treesets
+* sequences
