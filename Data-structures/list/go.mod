@@ -1,3 +1,3 @@
-module github.com/kalyan/go-data-structures
+module github.com/kalyan3104/go-data-structures
 
 go 1.22

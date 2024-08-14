@@ -24,17 +24,17 @@ func main() {
 	numList.PushBack(909)
 	numList.PushBack(404)
 
-	fmt.Println("Reverse string name of 'k':")
+	fmt.Println("Reverse string name of 'k: ")
 	for element := k.Back(); element !=nil; element = element.Prev() {
 		fmt.Println(string(element.Value.(rune)))
 	}  
-	
+
     fmt.Println("number of 'myList':")
 	for element := myList.Front(); element !=nil; element = element.Next() {
 		fmt.Println(element.Value)
 	}
  
-	fmt.Println("numbers in reverse in 'numList':")
+	fmt.Println("numbers in reverse in 'numList:")
 	for element := numList.Back(); element !=nil; element = element.Prev() {
 		fmt.Println(element.Value)
 	}
