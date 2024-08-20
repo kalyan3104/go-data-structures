@@ -13,7 +13,7 @@ func main () {
 	var square int
 	var cube int
 	var quartic int
-    var quintic int
+        var quintic int
 
 	square,cube,quartic,quintic = powerSeries(5) 
 	fmt.Println("square:",square, "cube:",cube, "quartic:", quartic, "quintic:",quintic)
